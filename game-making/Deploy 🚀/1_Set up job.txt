@@ -1,0 +1,29 @@
+2023-07-27T19:55:18.4033881Z Current runner version: '2.307.1'
+2023-07-27T19:55:18.4073977Z ##[group]Operating System
+2023-07-27T19:55:18.4075503Z Ubuntu
+2023-07-27T19:55:18.4076625Z 22.04.2
+2023-07-27T19:55:18.4077687Z LTS
+2023-07-27T19:55:18.4079062Z ##[endgroup]
+2023-07-27T19:55:18.4080237Z ##[group]Runner Image
+2023-07-27T19:55:18.4081427Z Image: ubuntu-22.04
+2023-07-27T19:55:18.4082617Z Version: 20230724.1.0
+2023-07-27T19:55:18.4084244Z Included Software: https://github.com/actions/runner-images/blob/ubuntu22/20230724.1/images/linux/Ubuntu2204-Readme.md
+2023-07-27T19:55:18.4086023Z Image Release: https://github.com/actions/runner-images/releases/tag/ubuntu22%2F20230724.1
+2023-07-27T19:55:18.4087411Z ##[endgroup]
+2023-07-27T19:55:18.4088615Z ##[group]Runner Image Provisioner
+2023-07-27T19:55:18.4089840Z 2.0.238.1
+2023-07-27T19:55:18.4090898Z ##[endgroup]
+2023-07-27T19:55:18.4093056Z ##[group]GITHUB_TOKEN Permissions
+2023-07-27T19:55:18.4094572Z Contents: read
+2023-07-27T19:55:18.4095834Z Metadata: read
+2023-07-27T19:55:18.4097062Z Packages: read
+2023-07-27T19:55:18.4098605Z ##[endgroup]
+2023-07-27T19:55:18.4105161Z Secret source: Actions
+2023-07-27T19:55:18.4106639Z Prepare workflow directory
+2023-07-27T19:55:18.5162585Z Prepare all required actions
+2023-07-27T19:55:18.5411170Z Getting action download info
+2023-07-27T19:55:18.9091237Z Download action repository 'actions/checkout@v2' (SHA:ee0669bd1cc54295c223e0bb666b733df41de1c5)
+2023-07-27T19:55:19.5837531Z Download action repository 'actions/cache@v2' (SHA:8492260343ad570701412c2f464a5877dc76bace)
+2023-07-27T19:55:20.1406320Z Download action repository 'game-ci/unity-builder@v2' (SHA:9f79830454d37cd9e70c4c3b73d26c06bcce2b2a)
+2023-07-27T19:55:21.0942980Z Download action repository 'JamesIves/github-pages-deploy-action@4.1.3' (SHA:93065a8b71cd5d57c379528f7a43a2e38d908af0)
+2023-07-27T19:55:22.0313543Z Complete job name: Deploy 🚀

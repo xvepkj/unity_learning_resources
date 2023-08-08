@@ -1,0 +1,242 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\pkjro\Desktop\game-making\Font\excelsior-comics-font.zip
+FileModTime:1690028469
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ExcelsiorComics3DItalic
+FamilyName:Excelsior Comics 3D Italic
+StyleName:Italic
+FullName:Excelsior Comics 3D Italic
+MenuName:Excelsior Comics 3D Italic
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pkjro\Desktop\game-making\Font\excelsior-comics-font\ExcelsiorComics3DItalic-DvDD.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:364932
+FileModTime:1670748608
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Excelsior Comics 3D Italic
+NameArray:0,Win,1,Excelsior Comics 3D Italic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ExcelsiorComics3D
+FamilyName:Excelsior Comics 3D
+StyleName:Regular
+FullName:Excelsior Comics 3D Regular
+MenuName:Excelsior Comics 3D
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pkjro\Desktop\game-making\Font\excelsior-comics-font\ExcelsiorComics3DRegular-pXJd.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:339216
+FileModTime:1670748608
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Excelsior Comics 3D Regular
+NameArray:0,Win,1,Excelsior Comics 3D
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ExcelsiorComicsCondensed
+FamilyName:Excelsior Comics Condensed
+StyleName:Condensed
+FullName:Excelsior Comics Condensed
+MenuName:Excelsior Comics Condensed
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pkjro\Desktop\game-making\Font\excelsior-comics-font\ExcelsiorComicsCondensed-AM3p.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:159452
+FileModTime:1670748608
+WeightClass:400
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,Excelsior Comics Condensed
+NameArray:0,Win,1,Excelsior Comics Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ExcelsiorComicsCondenseItal
+FamilyName:Excelsior Comics Condense Ital
+StyleName:Condensed Italic
+FullName:Excelsior Comics Condense Ital
+MenuName:Excelsior Comics Condense Ital
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pkjro\Desktop\game-making\Font\excelsior-comics-font\ExcelsiorComicsCondenseItal-qgG1.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:170412
+FileModTime:1670748608
+WeightClass:400
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,Excelsior Comics Condense Ital
+NameArray:0,Win,1,Excelsior Comics Condense Ital
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ExcelsiorComicsExpanded
+FamilyName:Excelsior Comics Expanded
+StyleName:Expanded
+FullName:Excelsior Comics Expanded
+MenuName:Excelsior Comics Expanded
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pkjro\Desktop\game-making\Font\excelsior-comics-font\ExcelsiorComicsExpanded-V32l.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:167524
+FileModTime:1670748608
+WeightClass:400
+WidthClass:7
+AngleClass:0
+NameArray:0,Mac,4,Excelsior Comics Expanded
+NameArray:0,Win,1,Excelsior Comics Expanded
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ExcelsiorComicsExpandItalic
+FamilyName:Excelsior Comics Expand Italic
+StyleName:Expanded Italic
+FullName:Excelsior Comics Expand Italic
+MenuName:Excelsior Comics Expand Italic
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pkjro\Desktop\game-making\Font\excelsior-comics-font\ExcelsiorComicsExpandItalic-JL5m.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:178848
+FileModTime:1670748608
+WeightClass:400
+WidthClass:7
+AngleClass:0
+NameArray:0,Mac,4,Excelsior Comics Expand Italic
+NameArray:0,Win,1,Excelsior Comics Expand Italic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ExcelsiorComicsItalic
+FamilyName:Excelsior Comics Italic
+StyleName:Italic
+FullName:Excelsior Comics Italic
+MenuName:Excelsior Comics Italic
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pkjro\Desktop\game-making\Font\excelsior-comics-font\ExcelsiorComicsItalic-GmGO.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:169096
+FileModTime:1670748608
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Excelsior Comics Italic
+NameArray:0,Win,1,Excelsior Comics Italic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ExcelsiorComicsLeftalic
+FamilyName:Excelsior Comics Leftalic
+StyleName:Italic
+FullName:Excelsior Comics Leftalic
+MenuName:Excelsior Comics Leftalic
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pkjro\Desktop\game-making\Font\excelsior-comics-font\ExcelsiorComicsLeftalic-jwp9.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:172608
+FileModTime:1670748608
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Excelsior Comics Leftalic
+NameArray:0,Win,1,Excelsior Comics Leftalic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ExcelsiorComics
+FamilyName:Excelsior Comics
+StyleName:Regular
+FullName:Excelsior Comics Regular
+MenuName:Excelsior Comics
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\pkjro\Desktop\game-making\Font\excelsior-comics-font\ExcelsiorComicsRegular-xE6m.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:153436
+FileModTime:1670748608
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Excelsior Comics Regular
+NameArray:0,Win,1,Excelsior Comics
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\pkjro\Desktop\game-making\Font\excelsior-comics-font\info.txt
+FileModTime:1670748608
+%EndFont
+
